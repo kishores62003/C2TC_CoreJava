@@ -17,7 +17,7 @@ public class Emoji {
 			String e = "\u1F605";
 			System.out.println("Grinning Face With Sweat : " + e);
 			String f = "\u1F606";
-			System.out.println("Grinning Squinting Face : " + f);
+			System.out.println("Grinning Squinting Face: " + f);
 		
 
 	
